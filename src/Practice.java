@@ -6,6 +6,7 @@ public class Practice {
 		System.out.println("Hello, world");
 		System.out.println("MakingChanges!!!!!!!!");
 		System.out.println("Here are some more changes from Oliver");
+		System.out.println("I am adding things for a new feature");
 	}
 
 }
