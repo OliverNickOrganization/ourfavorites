@@ -4,8 +4,7 @@ public class Practice {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello, world");
-		System.out.println("MAKING SOME CHANGES, YEAH");
-		
+		System.out.println("MakingChanges!!!!!!!!");
 	}
 
 }
